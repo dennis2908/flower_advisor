@@ -117,7 +117,7 @@
   list-style: none;
   float: left;
   display: table-column;         
-  width: 550px;  
+  width: 600px;  
   margin-bottom:8px;  
 }
 
