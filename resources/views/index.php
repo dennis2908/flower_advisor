@@ -122,12 +122,12 @@
 }
 
 </style>
-<link rel="icon" href="{{asset('image/logo.jpg')}}" type="image/icon type">
+<link rel="icon" href="image/logo.jpg" type="image/icon type">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Acme|Source+Sans+Pro:300,400,700">
 <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 <div class="container">
-  <img src="{{asset('image/img.png')}}" class="img" alt="Snow">
-  <a href="https://itunes.apple.com/us/app/online-florist-floweradvisor/id1185232807"><img src="{{asset('image/app.png')}}" class="app" alt="Snow"></a>
+  <img src="image/img.png" class="img" alt="Snow">
+  <a href="https://itunes.apple.com/us/app/online-florist-floweradvisor/id1185232807"><img src="image/app.png" class="app" alt="Snow"></a>
   <button class="btn" onclick="copy()">CODE : <b>HALLOW10 <i class="fas fa-copy"></i></b></button>
   <div style="color:purple;margin-left: auto;margin-right: auto;display: block;">
 	  <h1 style="text-align:center">Terms and Conditions</h1>
@@ -158,7 +158,7 @@
 	  <a href="https://www.floweradvisor.com.ph/flowers-philippines"><button class="btn_orange"><b>MAKE SOMEONE'S DAY</b></button></a>
 	  </div>
 	  <div class="dash"></div>
-	  <a href="https://www.floweradvisor.com.ph"><img src="{{asset('image/logo.jpg')}}" class="logo" alt="Snow"></a>
+	  <a href="https://www.floweradvisor.com.ph"><img src="image/logo.jpg" class="logo" alt="Snow"></a>
 	  <div style="margin-left:25px;margin-right:25px;font-size:15px">Some of you living in Singapore might be difficult to find the most trusted flower delivery Singapore that will help you to give surprise for your love. It is because there are so many flower delivery services that offer you with a wide variety of flower in different kinds, arrangements and prices. This becomes the major reasons why most of Singaporeans get deceived by some irresponsible online flower delivery for the sake of the low quality of flowers and many more.</div>
 	  <hr>
   </div>
