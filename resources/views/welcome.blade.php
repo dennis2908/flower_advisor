@@ -164,16 +164,6 @@
   </div>
   <script>
   function copy() {
-  /* Get the text field */
-  var copyText = "HALLOW10";
-
-  /* Select the text field */
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); /*For mobile devices*/
-
-  /* Copy the text inside the text field */
-  document.execCommand("copy");
-
-  /* Alert the copied text */
-} 
+	   navigator.clipboard.writeText( "HALLOW10");
+  } 
   </script>
